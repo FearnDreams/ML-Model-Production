@@ -1,0 +1,11 @@
+# Obsidian 配置文件
+.obsidian/
+.DS_Store
+Thumbs.db
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+
+# 日志文件
+*.log
